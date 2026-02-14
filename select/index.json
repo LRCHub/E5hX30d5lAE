@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Kaikai Kitan",
+  "base_artist": "Eve(이브)",
+  "createdAt": "2026-02-14T13:49:57.300879Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kaikai Kitan",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_Kaikai_Kitan_Eve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kaikai Kitan",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/02_Kaikai_Kitan_Eve.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kaikai Kitan",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/03_Kaikai_Kitan_Eve.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kaikai Kitan (From \"Jujutsu Kaisen\")",
+      "artist": "Rainych",
+      "has_synced": false,
+      "path": "select/04_Kaikai_Kitan_(From__Jujutsu_Kaisen_)_Rainych.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kaikai Kitan",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/05_Kaikai_Kitan_Eve.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kaikai Kitan",
+      "artist": "Will Stetson",
+      "has_synced": true,
+      "path": "select/06_Kaikai_Kitan_Will_Stetson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jujutsu Kaisen Opening (Kaikai Kitan)",
+      "artist": "Rifti Beats",
+      "has_synced": false,
+      "path": "select/07_Jujutsu_Kaisen_Opening_(Kaikai_Kitan)_Rifti_Beats.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kaikai Kitan (from \"Jujutsu Kaisen\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/08_Kaikai_Kitan_(from__Jujutsu_Kaisen_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kaikai Kitan (from \"Jujutsu Kaisen\")",
+      "artist": "AmaLee",
+      "has_synced": false,
+      "path": "select/09_Kaikai_Kitan_(from__Jujutsu_Kaisen_)_AmaLee.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kaikai Kitan",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/10_Kaikai_Kitan_Eve.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kaikai Kitan",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/11_Kaikai_Kitan_Eve.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kaikai Kitan (Lofi Remix)",
+      "artist": "dj-Jo",
+      "has_synced": false,
+      "path": "select/12_Kaikai_Kitan_(Lofi_Remix)_dj-Jo.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kaikai Kitan",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/13_Kaikai_Kitan_Eve.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "廻廻奇譚",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_廻廻奇譚_Eve.txt"
+    }
+  ]
+}
